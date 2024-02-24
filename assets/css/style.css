@@ -139,6 +139,14 @@ main {
     line-height: 0;
 }
 
+/* info section*/
+#info {
+    height: 600px;
+    width: 100%;
+    background: url("../css/images/life\ hack\ info.webp")no-repeat center center/cover;
+    position:relative;
+}
+
 #signup {
     background-image: url("../css/images/life\ hack\ pic1.webp");
     background-size: cover;
